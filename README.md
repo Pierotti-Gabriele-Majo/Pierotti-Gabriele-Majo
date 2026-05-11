@@ -24,7 +24,8 @@ Credo fermamente che un buon software debba essere accompagnato da una documenta
 ---
 
 ## 📫 Contatti
-- 💼 [LinkedIn](www.linkedin.com/in/gabriele-pierotti-156607317)
-- ✉️ [Tua Email](pierotti.gabriele24@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-pierotti-156607317)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierotti.gabriele24@gmail.com)
+- [![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/smb53dv6445pow7)
 
 *"Il codice è poesia scritta per essere eseguita, ma la documentazione è la storia che gli dà un senso."*
