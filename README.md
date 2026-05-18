@@ -11,6 +11,7 @@ Attualmente il mio focus principale è **[Vanitas Studios](https://github.com/Va
 - **Logica Ricorsiva:** Gestione gerarchica dei contenuti per una flessibilità infinita.
 - **Data Integrity:** Implementazione di sistemi di Soft-Delete e Garbage Collection dei media.
 - **UX Focus:** Interfacce distraction-free per massimizzare la produttività dell'editor.
+- **Brand Identity**: [Clicca qui per scoprire la genesi del mio logo personale](LogoGenesis.md).
 
 ## 🚀 Competenze Tecniche
 - **Backend:** C#, .NET Core, ASP.NET Web API, Entity Framework.
